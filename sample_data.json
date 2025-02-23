@@ -1,0 +1,428 @@
+[
+    {
+      "ProductID": 1,
+      "ProductName": "iPhone 13 Pro ",
+      "Brand": "Apple",
+      "Category": "Electronics",
+      "Price": "$999",
+      "Quantity": 50,
+      "DateAdded": "2021/09/24",
+      "Description": "The iPhone 13 Pro represents Apple's latest leap forward in smartphone technology, featuring the powerful A15 Bionic chip that delivers lightning-fast performance and efficient energy consumption. With its stunning Super Retina XDR display, users can enjoy vibrant colors and sharp details, making everything from photos to videos look more lifelike. The device also introduces a Pro camera system with a triple-camera setup, allowing for exceptional low-light photography and advanced computational photography features like Night mode and Deep Fusion. Additionally, the iPhone 13 Pro supports 5G connectivity, ensuring faster download speeds and a more responsive internet experience. Its durable design includes a Ceramic Shield front cover and surgical-grade stainless steel, offering increased protection against drops and scratches. With up to 1TB of storage, it provides ample space for all your apps, photos, and videos. The phone also boasts improved battery life, lasting up to 22 hours of video playback on a single charge. Whether you're a professional photographer or just someone who appreciates cutting-edge technology, the iPhone 13 Pro offers a comprehensive package that meets a wide range of needs.",
+      "KeyFeatures": ["5G speed", "Triple-camera system", "Super Retina XDR display"],
+      "Attributes": {
+        "Color": "Sierra Blue",
+        "Storage": "128GB",
+        "Warranty": "1 year limited warranty"
+      },
+      "data": "<div><h1>iPhone 13 Pro</h1><p>Experience the future with the new iPhone 13 Pro in Sierra Blue! Featuring a Super Retina XDR display and A15 Bionic chip. Now with 5G speed for lightning-fast downloads. <b>Storage options:</b> 128GB, 256GB, 512GB, and 1TB. <span style='color:red;'>Limited warranty of 1 year included.</span></p><p>Key features: Triple-camera system, Super Retina XDR display, 5G connectivity. Don't miss out!</p></div>"
+    },
+    {
+      "ProductID": 2,
+      "ProductName": "Air Force One Sneakers",
+      "Brand": "Nike",
+      "Category": "Footwear",
+      "Price": 90,
+      "Quantity": 100,
+      "DateAdded": "24-09-2021",
+      "Description": "Classic Nike sneakers with timeless style.",
+      "KeyFeatures": ["Leather upper", "Rubber outsole", "Perforations for ventilation"],
+      "Attributes": {
+        "Size": ["7", "8", "9", "10", "11"],
+        "Color": "White",
+        "Gender": "Unisex"
+      },
+      "data": "## Air Force One Sneakers\n\n**Brand:** Nike\n\nStep into the iconic style of the Air Force 1 Sneakers! Available in sizes 7-11. Features include:\n- Leather Upper\n- Rubber outsole\n- Perforations for ventilation\n\n*Color options: WHITE only.* Perfect for everyone - unisex design."
+    },
+    {
+      "ProductID": 3,
+      "ProductName": "Sonicare DiamondClean Toothbrush",
+      "Brand": "Phillips",
+      "Category": "Home",
+      "Price": "one hundred fifty",
+      "Quantity": 25,
+      "DateAdded": "09/24/21",
+      "Description": "Experience superior oral health with the Sonicare DiamondClean Toothbrush by Phillips. This electric toothbrush is designed to remove up to seven times more plaque than a manual toothbrush, thanks to its advanced sonic technology that delivers 31,000 brush strokes per minute. It features five brushing modes—Clean, White, Sensitive, Gum Care, and Deep Clean—to cater to your specific oral care needs. The DiamondClean's sleek design includes a unique charging glass that doubles as a rinsing cup and a USB charging travel case, making it perfect for those on the go. Its smartimer and quadpacer ensure you brush for the dentist-recommended two minutes, evenly cleaning all quadrants of your mouth. The brush heads are engineered with diamond-shaped bristles to effectively remove surface stains, leading to whiter teeth in just one week. Additionally, the toothbrush is equipped with a pressure sensor to protect your gums from excessive brushing force. With a battery life of up to two weeks on a single charge, it's both convenient and efficient. Elevate your dental hygiene routine with this state-of-the-art toothbrush that combines technology and design for optimal performance.",
+      "KeyFeatures": ["Five brushing modes", "USB charging travel case", "Improves gum health"],
+      "Attributes": {
+        "Color": "Black",
+        "BatteryLife": "2 weeks",
+        "Voltage": "110-220V"
+      },
+      "data": "<html><body><h2>Sonicare DiamondClean Toothbrush by Phillips</h2><p>Color: Black</p><p>Voltage: 110-220V</p><p>Features:</p><ul><li>Five Brushing Modes</li><li>Includes USB Charging Travel Case</li><li>Battery life up to 2 weeks!</li></ul><p>Improve your gum health with advanced sonic technology.</p></body></html>"
+    },
+    {
+      "ProductID": 4,
+      "ProductName": "Nescafe Gold Blend Coffee",
+      "Brand": "Nescafé",
+      "Category": "Groceries",
+      "Price": 15.99,
+      "Quantity": null,
+      "DateAdded": "September 24, 2021",
+      "Description": "Premium instant coffee with rich aroma.",
+      "KeyFeatures": ["Smooth taste", "Rich aroma", "Easy to prepare"],
+      "Attributes": {
+        "Weight": "200g",
+        "Packaging": "Glass jar",
+        "Organic": false
+      },
+      "data": "Nescafé Gold Blend Coffee - Premium instant coffee in a 200g glass jar. Enjoy a smooth taste and rich aroma in every cup. Not organic. Easy to prepare, just add hot water!"
+    },
+    {
+      "ProductID": 5,
+      "ProductName": "Supersonic Hair Dryer",
+      "Brand": "Dysen",
+      "Category": "Electronics",
+      "Price": 399.99,
+      "Quantity": 10,
+      "DateAdded": "2021-24-09",
+      "Description": "The Supersonic Hair Dryer by Dysen revolutionizes hair care with its innovative technology and sleek design. Engineered for fast drying and precision styling, this hair dryer uses a powerful digital motor that spins up to 110,000 times per minute, propelling a high-velocity jet of controlled air. Its intelligent heat control measures air temperature over 40 times a second to prevent extreme heat damage, protecting your hair's natural shine. The dryer comes with magnetic attachments, including a smoothing nozzle, styling concentrator, and diffuser, which can be easily adjusted to suit your styling needs. Its balanced design places the motor in the handle, improving comfort and ergonomics during use. The Supersonic also features acoustic tuning to reduce noise levels, making it one of the quietest high-performance hair dryers on the market. Ideal for all hair types, it helps reduce frizz and flyaways, resulting in smoother, more manageable hair. With a 2-year warranty and a range of color options, this hair dryer is a premium tool for those seeking salon-quality results at home.",
+      "KeyFeatures": ["Fast drying", "Heat protection", "Magnetic attachments"],
+      "Attributes": {
+        "Color": "Iron/Fuchsia",
+        "Power": "1600W",
+        "Warranty": "2 years"
+      },
+      "data": "Supersonic Hair Dryer by Dysen!\n\n- Color: Iron/Fuschia\n- Power: 1600W\n- Magnetic attachments included.\n\nExperience fast drying with intelligent heat control. Comes with a 2 YEARS WARRANTY.\n\n<p>Note: Reduces frizz and flyaways for smoother hair.</p>"
+    },
+    {
+      "ProductID": 6,
+      "ProductName": "Classic Beef Jerky",
+      "Brand": "Jack Link's",
+      "Category": "Snacks",
+      "Price": 5.99,
+      "Quantity": 200,
+      "DateAdded": "24/09/21",
+      "Description": "Beef jerky snack, perfect for on-the-go.",
+      "KeyFeatures": ["High protein", "Low fat", "No artificial ingredients"],
+      "Attributes": {
+        "Weight": "80g",
+        "Flavor": "Original",
+        "GlutenFree": true
+      },
+      "data": "Jack Link's Classic Beef Jerky - Original Flavor. Weight: 80g. High in protein, low in fat, and GLUTEN-FREE! No artificial ingredients. Perfect snack for on-the-go."
+    },
+    {
+      "ProductID": 7,
+      "ProductName": "Classic Hummus",
+      "Brand": "Sabra",
+      "Category": "Groceries",
+      "Price": 3.5,
+      "Quantity": "",
+      "DateAdded": "2021/09/24",
+      "Description": "Sabra's Classic Hummus is a delightful blend of chickpeas, tahini, garlic, and a touch of lemon, creating a smooth and creamy spread that's both delicious and versatile. Perfect as a dip for vegetables and pita chips or as a spread in sandwiches and wraps, this hummus brings authentic Mediterranean flavors to your table. Made with high-quality, non-GMO ingredients, it's a wholesome choice for those seeking a nutritious snack or addition to meals. The hummus is gluten-free, vegan, and kosher, catering to a variety of dietary preferences and restrictions. Its rich texture and savory taste make it a favorite for parties, picnics, or everyday snacking. The convenient packaging ensures freshness and easy storage, while the recyclable container aligns with environmentally conscious practices. Whether you're a long-time hummus lover or new to this classic dip, Sabra's offering provides a satisfying and flavorful experience that's hard to resist.",
+      "KeyFeatures": ["Gluten-free", "Vegan", "Kosher"],
+      "Attributes": {
+        "Weight": "10 oz",
+        "Packaging": "Plastic tub",
+        "Refrigerated": true
+      },
+      "data": "Sabra Classic Hummus - 10oz Plastic Tub\n\n- Gluten-free, Vegan, Kosher\n- Made with chickpeas, tahini, garlic, and lemon.\n- Keep refrigerated.\n\nPerfect for dipping or spreading!"
+    },
+    {
+      "ProductID": 8,
+      "ProductName": "Sparkling Water",
+      "Brand": "Perier",
+      "Category": "Beverages",
+      "Price": 1.25,
+      "Quantity": 500,
+      "DateAdded": "24.09.2021",
+      "Description": "Carbonated mineral water from France.",
+      "KeyFeatures": ["Zero calories", "Natural minerals", "Glass bottle"],
+      "Attributes": {
+        "Volume": "330ml",
+        "Packaging": "Glass bottle",
+        "Flavor": "Natural"
+      },
+      "data": "<p>Perier Sparkling Water - 330ml Glass Bottle</p><p>Zero calories, natural minerals, and a refreshing taste from France. Flavor: Natural. Perfect for any occasion.</p>"
+    },
+    {
+      "ProductID": 9,
+      "ProductName": "MacBookAir",
+      "Brand": "Apple",
+      "Category": "Electronics",
+      "Price": null,
+      "Quantity": 30,
+      "DateAdded": "2021-09-24",
+      "Description": "The MacBookAir is Apple's thinnest and lightest notebook, now transformed by the powerful Apple M1 chip for a giant leap in CPU, GPU, and machine learning performance. This sleek laptop offers up to 3.5x faster CPU performance and up to 5x faster graphics, making it ideal for everything from professional-quality editing to action-packed gaming. The 13.3-inch Retina display brings images to life with new levels of realism, supporting millions of colors for vibrant visuals. With up to 18 hours of battery life, it's designed to keep up with your busy day without the need for frequent charging. The MacBookAir also features a silent, fanless design, ensuring quiet operation regardless of workload. Its advanced Neural Engine enables up to 9x faster machine learning, enhancing tasks like video analysis, voice recognition, and image processing. The laptop comes with 8GB of unified memory and starts with 256GB of fast SSD storage, providing ample space and speed for your files and applications. Equipped with a backlit Magic Keyboard, Touch ID for secure authentication, and Wi-Fi 6 for faster connectivity, the MacBookAir combines performance and portability in an elegant package.",
+      "KeyFeatures": ["M1 chip", "Retina display", "All-day battery life"],
+      "Attributes": {
+        "Color": "Space Gray",
+        "Storage": "256GB",
+        "RAM": "8GB"
+      },
+      "data": "<div><h1>MacBookAir - Apple</h1><p>Color: Space Gray</p><p>Storage: 256GB SSD</p><p>RAM: 8GB unified memory</p><p>Features the new M1 chip and a stunning Retina display. Enjoy all-day battery life and a silent, fanless design.</p></div>"
+    },
+    {
+      "ProductID": 10,
+      "ProductName": "Roomba 980 Robot Vacuum",
+      "Brand": "iRobot",
+      "Category": "Home",
+      "Price": 899.99,
+      "Quantity": 15,
+      "DateAdded": "2021/09/24",
+      "Description": "Robot vacuum cleaner with smart mapping.",
+      "KeyFeatures": ["Wi-Fi connected", "Smart mapping", "Works with Alexa"],
+      "Attributes": {
+        "Color": "Black",
+        "BatteryLife": "120 minutes",
+        "Warranty": "1 year"
+      },
+      "data": "Roomba 980 Robot Vacuum by iRobot\n\n- Color: Black\n- Battery life up to 120 minutes\n- Wi-Fi connected and works with Alexa\n- 1-year warranty included.\n\nLet the Roomba do the cleaning for you!"
+    },
+    {
+      "ProductID": 11,
+      "ProductName": "Organic Greek Yogurt",
+      "Brand": "Chobani",
+      "Category": "Dairy",
+      "Price": 2.5,
+      "Quantity": null,
+      "DateAdded": "2021-09-24",
+      "Description": "Chobani's Organic Greek Yogurt is a rich and creamy delight that brings wholesome goodness to your daily diet. Made from organic, non-GMO ingredients, this yogurt is crafted using traditional straining methods to achieve its signature thickness and tangy flavor. Each serving is packed with high-quality protein, essential for muscle repair and overall health. The yogurt is low in fat and contains live and active cultures, promoting digestive health and boosting the immune system. Its plain flavor offers versatility, making it perfect for smoothies, baking, or as a substitute for sour cream and mayonnaise in recipes. Free from artificial flavors, sweeteners, and preservatives, it's a natural choice for health-conscious consumers. The convenient single-serve size ensures freshness and portion control, ideal for on-the-go snacking or lunchboxes. By choosing Chobani's Organic Greek Yogurt, you're not only nourishing your body but also supporting sustainable farming practices and animal welfare standards.",
+      "KeyFeatures": ["High protein", "Low fat", "Non-GMO"],
+      "Attributes": {
+        "Flavor": "Plain",
+        "Size": "5.3 oz",
+        "Organic": true
+      },
+      "data": "Chobani Organic Greek Yogurt - Plain Flavor\n\n- Size: 5.3oz\n- High in protein, low in fat\n- Made with organic, non-GMO ingredients\n\nPerfect for smoothies, baking, or as a healthy snack!"
+    },
+    {
+      "ProductID": 12,
+      "ProductName": "Cinnamon Toast Crunch Cereal",
+      "Brand": "General Mills",
+      "Category": "Breakfast",
+      "Price": 3.99,
+      "Quantity": 100,
+      "DateAdded": "24/9/2021",
+      "Description": "Breakfast cereal with cinnamon sugar.",
+      "KeyFeatures": ["Whole grain", "Cinnamon flavor", "Kids' favorite"],
+      "Attributes": {
+        "Weight": "12 oz",
+        "GlutenFree": false,
+        "Packaging": "Box"
+      },
+      "data": "Cinnamon Toast Crunch Cereal by General Mills\n\n- Weight: 12oz box\n- Made with whole grain\n- Delicious cinnamon sugar flavor\n\nA favorite among kids and adults alike!"
+    },
+    {
+      "ProductID": 13,
+      "ProductName": "Hershey's Milk Chocolate Bar",
+      "Brand": "Hershey's",
+      "Category": "Snacks",
+      "Price": 1.00,
+      "Quantity": 1000,
+      "DateAdded": "09/24/21",
+      "Description": "Indulge in the classic taste of Hershey's Milk Chocolate Bar, a timeless treat that has delighted chocolate lovers for generations. Crafted from high-quality cocoa and fresh farm milk, this chocolate bar offers a smooth, creamy texture and a rich flavor that melts in your mouth. Perfect for snacking, sharing, or using in your favorite recipes, it's a versatile delight that suits any occasion. Whether you're making s'mores by the campfire, baking cookies, or simply satisfying a sweet tooth, Hershey's Milk Chocolate Bar brings a touch of joy to every moment. It's individually wrapped, making it convenient for on-the-go enjoyment or as a delightful addition to lunchboxes and party favors. The chocolate bar is also kosher-certified, adhering to specific dietary guidelines. With its iconic packaging and enduring appeal, Hershey's Milk Chocolate Bar is more than just a candy; it's a piece of American heritage that continues to bring happiness to people of all ages.",
+      "KeyFeatures": ["Creamy texture", "Made in USA", "Kosher"],
+      "Attributes": {
+        "Weight": "1.55 oz",
+        "Allergens": ["Milk", "Soy"],
+        "Organic": false
+      },
+      "data": "<h1>Hershey's Milk Chocolate Bar</h1><p>Weight: 1.55oz</p><p>Made from high-quality cocoa and fresh milk. Creamy texture that melts in your mouth. Kosher certified. Contains allergens: Milk, Soy.</p>"
+    },
+    {
+      "ProductID": 14,
+      "ProductName": "Gold Standard Whey Protein",
+      "Brand": "Optimum Nutrition",
+      "Category": "Supplements",
+      "Price": 29.99,
+      "Quantity": 50,
+      "DateAdded": "09-24-2021",
+      "Description": "High-quality whey protein powder.",
+      "KeyFeatures": ["24g protein", "5.5g BCAAs", "Low sugar"],
+      "Attributes": {
+        "Flavor": "Double Rich Chocolate",
+        "Weight": "2 lbs",
+        "GlutenFree": true
+      },
+      "data": "Optimum Nutrition Gold Standard Whey Protein\n\n- Flavor: Double Rich Chocolate\n- Weight: 2lbs\n- Contains 24g protein and 5.5g BCAAs per serving\n- Gluten-free and low in sugar\n\nIdeal for muscle support and recovery."
+    },
+    {
+      "ProductID": 15,
+      "ProductName": "Smith's Lawn Fertilizer",
+      "Brand": "Scott's",
+      "Category": "Garden",
+      "Price": 19.99,
+      "Quantity": 75,
+      "DateAdded": "2021/09/24",
+      "Description": "Transform your lawn into a lush, green oasis with Smith's Lawn Fertilizer by Scott's. This premium fertilizer is formulated with a unique blend of nutrients that feeds your grass and strengthens roots, promoting vigorous growth and resilience against drought and heat. The WaterSmart technology helps your lawn absorb water and essential nutrients more effectively, reducing runoff and waste. Easy to apply with any spreader, it provides even coverage to prevent burning and ensures consistent results. Suitable for all grass types, it's ideal for both new and established lawns. The fertilizer not only enhances color and thickness but also aids in weed prevention by creating a dense turf that crowds out unwanted plants. With coverage of up to 5,000 square feet, it's an economical choice for medium to large yards. Please note that it's not safe for use around pets until watered in and the lawn is dry. Backed by Scott's No-Quibble Guarantee, you can trust in the quality and effectiveness of this product to deliver the lawn you've always desired.",
+      "KeyFeatures": ["Feeds grass", "WaterSmart technology", "Easy to apply"],
+      "Attributes": {
+        "Coverage": "5,000 sq ft",
+        "Season": "All seasons",
+        "PetSafe": false
+      },
+      "data": "Smith's Lawn Fertilizer by Scott's\n\n- Coverage: up to 5,000 sq ft\n- Features WaterSmart technology\n- Not safe for pets until watered in and dry\n\nEasy to apply and suitable for all seasons and grass types."
+    },
+    {
+      "ProductID": 16,
+      "ProductName": "Fresh Mozarella Cheese",
+      "Brand": "Galbani",
+      "Category": "Dairy",
+      "Price": 4.5,
+      "Quantity": null,
+      "DateAdded": "24 Sep 2021",
+      "Description": "Authentic Italian mozzarella cheese.",
+      "KeyFeatures": ["Fresh taste", "Soft texture", "Ideal for salads"],
+      "Attributes": {
+        "Weight": "8 oz",
+        "Packaging": "Vacuum-sealed",
+        "Organic": false
+      },
+      "data": "Galbani Fresh Mozzarella Cheese\n\n- Weight: 8oz\n- Vacuum-sealed for freshness\n- Authentic Italian taste\n\nIdeal for salads, pizzas, and more!"
+    },
+    {
+      "ProductID": 17,
+      "ProductName": "Organic Baby Spinach",
+      "Brand": "Earthbound Farm",
+      "Category": "Produce",
+      "Price": 2.99,
+      "Quantity": 200,
+      "DateAdded": "24/09/21",
+      "Description": "Earthbound Farm's Organic Baby Spinach is a nutrient-rich leafy green that adds freshness and vitality to your meals. Grown without synthetic pesticides or fertilizers, this spinach is harvested at the peak of tenderness to ensure optimal flavor and texture. It's pre-washed and ready to eat, saving you time in the kitchen. Packed with vitamins A, C, and K, as well as iron and fiber, it's a wholesome choice for salads, smoothies, sautés, and more. The spinach is packaged in a recyclable plastic clamshell that protects the leaves from bruising and extends shelf life. Committed to sustainable farming practices, Earthbound Farm ensures that each purchase supports environmental stewardship and healthy living. Whether you're a seasoned chef or a home cook, this organic baby spinach offers versatility and quality that you can taste in every bite.",
+      "KeyFeatures": ["Washed and ready to eat", "Non-GMO", "Rich in vitamins"],
+      "Attributes": {
+        "Weight": "5 oz",
+        "Packaging": "Plastic clamshell",
+        "Refrigerated": true
+      },
+      "data": "Earthbound Farm Organic Baby Spinach\n\n- Weight: 5oz\n- Washed and ready to eat\n- Packaged in a plastic clamshell\n\nRich in vitamins A, C, K, iron, and fiber. Non-GMO and grown without synthetic pesticides."
+    },
+    {
+      "ProductID": 18,
+      "ProductName": "Cheddar Cheese Crackers",
+      "Brand": "Cheez It",
+      "Category": "Snacks",
+      "Price": 2.50,
+      "Quantity": "",
+      "DateAdded": "2021.09.24",
+      "Description": "Baked snack crackers with cheddar cheese.",
+      "KeyFeatures": ["100% real cheese", "Baked", "Crispy texture"],
+      "Attributes": {
+        "Weight": "7 oz",
+        "Packaging": "Box",
+        "GlutenFree": false
+      },
+      "data": "Cheez It Cheddar Cheese Crackers\n\n- Weight: 7oz box\n- Made with 100% real cheese\n- Baked to perfection for a crispy texture\n\nA delicious snack for any time of day!"
+    },
+    {
+      "ProductID": 19,
+      "ProductName": "Deep Dish Pizza",
+      "Brand": "Lou Malnati's",
+      "Category": "Prepared Foods",
+      "Price": "$12.99",
+      "Quantity": 50,
+      "DateAdded": "09/24/2021",
+      "Description": "Experience the authentic taste of Chicago with Lou Malnati's Deep Dish Pizza. Famous for its rich, buttery crust and generous layers of cheese and toppings, this pizza brings a slice of the Windy City to your table. Each pizza is handcrafted using Lou Malnati's family recipe, featuring vine-ripened plum tomatoes, fresh mozzarella cheese, and high-quality meats and vegetables. The crust is made from a proprietary blend of flour and cornmeal, creating a texture that's both flaky and satisfying. Ideal for a family dinner, party, or special occasion, the pizza is shipped frozen to preserve freshness and flavor. Simply bake it in your oven, and in minutes, you'll enjoy a restaurant-quality meal at home. Whether you're a Chicago native missing the taste of home or a pizza enthusiast looking to try something new, Lou Malnati's Deep Dish Pizza offers an unforgettable culinary experience that embodies the spirit of Chicago's renowned pizza culture.",
+      "KeyFeatures": ["Buttery crust", "Hearty toppings", "Famous recipe"],
+      "Attributes": {
+        "Size": "9-inch",
+        "Frozen": true,
+        "Servings": "2-3"
+      },
+      "data": "<div><h2>Lou Malnati's Deep Dish Pizza</h2><p>Size: 9-inch, serves 2-3</p><p>Shipped frozen to ensure freshness.</p><p>Features a buttery crust and hearty toppings.</p><p>Experience the famous Chicago-style pizza at home!</p></div>"
+    },
+    {
+      "ProductID": 20,
+      "ProductName": "Classic Ice Cream Sandwich",
+      "Brand": "Nestlé",
+      "Category": "Dessert",
+      "Price": 1.75,
+      "Quantity": 500,
+      "DateAdded": "24/09/2021",
+      "Description": "Vanilla ice cream between two chocolate wafers.",
+      "KeyFeatures": ["Real ice cream", "No artificial flavors", "Individually wrapped"],
+      "Attributes": {
+        "Weight": "4 oz",
+        "Packaging": "Wrapper",
+        "Refrigerated": false
+      },
+      "data": "Nestlé Classic Ice Cream Sandwich\n\n- Weight: 4oz\n- Real vanilla ice cream between two chocolate wafers\n- No artificial flavors\n- Individually wrapped for convenience\n\nA delightful treat for any time!"
+    },
+    {
+      "ProductID": 21,
+      "ProductName": "Corn Flakes",
+      "Brand": "Kelloggs",
+      "Category": "Breakfast",
+      "Price": 3.00,
+      "Quantity": 250,
+      "DateAdded": "2021/9/24",
+      "Description": "Start your day with the simple goodness of Kelloggs Corn Flakes, a classic breakfast cereal that's been a family favorite for over a century. Made from lightly toasted flakes of sun-ripened corn, this cereal offers a crisp texture and a wholesome taste that's both satisfying and nourishing. Enriched with essential vitamins and minerals like iron and B vitamins, it's designed to provide the energy you need to tackle your day. The low-fat, cholesterol-free recipe makes it a healthy choice for those watching their diet. Enjoy it with your favorite milk or milk alternative, and consider adding fresh fruit like bananas or berries for an extra nutritional boost. The versatile flakes can also be used in recipes, from crispy coatings for chicken to delicious cereal bars. Packaged in a recyclable box, Kelloggs Corn Flakes continues to uphold its commitment to quality and sustainability. It's more than just a breakfast; it's a tradition that brings families together around the table.",
+      "KeyFeatures": ["Low fat", "Vitamins added", "Crispy flakes"],
+      "Attributes": {
+        "Weight": "18 oz",
+        "GlutenFree": false,
+        "Packaging": "Box"
+      },
+      "data": "Kelloggs Corn Flakes Cereal\n\n- Weight: 18oz box\n- Low in fat and enriched with vitamins\n- Crispy flakes made from sun-ripened corn\n\nA classic breakfast choice for the whole family."
+    },
+    {
+      "ProductID": 22,
+      "ProductName": "Organic Extra Virgin Olive Oil",
+      "Brand": "California Olive Ranch",
+      "Category": "Pantry",
+      "Price": 9.99,
+      "Quantity": 100,
+      "DateAdded": "24/09/2021",
+      "Description": "Cold-pressed organic olive oil.",
+      "KeyFeatures": ["First cold press", "Non-GMO", "Smooth flavor"],
+      "Attributes": {
+        "Volume": "500ml",
+        "Packaging": "Glass bottle",
+        "Organic": true
+      },
+      "data": "California Olive Ranch Organic Extra Virgin Olive Oil\n\n- Volume: 500ml\n- First cold press for superior flavor\n- Non-GMO and USDA Organic certified\n\nIdeal for cooking, dressing, and dipping."
+    },
+    {
+      "ProductID": 23,
+      "ProductName": "Spaghetti Pasta",
+      "Brand": "Barrilla",
+      "Category": "Pantry",
+      "Price": 1.50,
+      "Quantity": 300,
+      "DateAdded": "2021/09/24",
+      "Description": "Barrilla's Spaghetti Pasta brings the authentic taste of Italy to your kitchen with its high-quality durum wheat semolina formulation. This classic long, thin pasta is a staple in many households, known for its versatility and ability to pair well with a variety of sauces, from rich meat sauces to light olive oil and garlic blends. It cooks to al dente perfection in just 9 minutes, offering a firm texture that holds up well in both simple and complex dishes. The pasta is non-GMO and free from artificial ingredients, aligning with health-conscious consumer preferences. Packaged in a convenient box with cooking instructions and recipe ideas, it's easy to prepare a delicious meal for family and friends. Whether you're making a traditional spaghetti Bolognese or experimenting with new flavors, Barrilla's Spaghetti Pasta provides a reliable foundation for culinary creativity. Embrace the joy of Italian cooking with this pantry essential that combines tradition, quality, and taste.",
+      "KeyFeatures": ["Durum wheat", "Cooks in 9 minutes", "Non-GMO"],
+      "Attributes": {
+        "Weight": "16 oz",
+        "GlutenFree": false,
+        "Packaging": "Box"
+      },
+      "data": "Barrilla Spaghetti Pasta\n\n- Weight: 16oz box\n- Made from high-quality durum wheat semolina\n- Cooks to al dente in 9 minutes\n- Non-GMO and free from artificial ingredients\n\nPerfect for a variety of dishes!"
+    },
+    {
+      "ProductID": 24,
+      "ProductName": "Baby Diapers",
+      "Brand": "Pampers",
+      "Category": "Baby",
+      "Price": 25.00,
+      "Quantity": null,
+      "DateAdded": "24/09/2021",
+      "Description": "Disposable diapers with superior leak protection.",
+      "KeyFeatures": ["Wetness indicator", "Soft material", "Breathable layers"],
+      "Attributes": {
+        "Size": "Size 3",
+        "Count": 100,
+        "Hypoallergenic": true
+      },
+      "data": "Pampers Baby Diapers\n\n- Size: 3\n- Count: 100 diapers per pack\n- Hypoallergenic with breathable layers\n- Features a wetness indicator\n\nKeep your baby comfortable and dry."
+    },
+    {
+      "ProductID": 25,
+      "ProductName": "Organic Whole Milk",
+      "Brand": "Horizon",
+      "Category": "Dairy",
+      "Price": 3.99,
+      "Quantity": 100,
+      "DateAdded": "24-09-2021",
+      "Description": "Organic whole milk from grass-fed cows.",
+      "KeyFeatures": ["Vitamin D added", "Non-GMO", "USDA Organic"],
+      "Attributes": {
+        "Volume": "1 gallon",
+        "Packaging": "Carton",
+        "Refrigerated": true
+      },
+      "data": "Horizon Organic Whole Milk\n\n- Volume: 1 gallon carton\n- From grass-fed cows\n- Vitamin D added, Non-GMO, USDA Organic\n\nDelicious and nutritious for the whole family."
+    }
+  ]
+  
