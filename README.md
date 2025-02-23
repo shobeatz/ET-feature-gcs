@@ -32,5 +32,7 @@ Created an ETL pipeline which reads json data, cleans, standardizes & transforms
 ## Dependencies
 - Python 3.10
 - Libraries: See `requirements.txt`
+- Google Cloud account
+
 
 
