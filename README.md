@@ -11,7 +11,7 @@ Created an ETL pipeline which reads json data, cleans, standardizes & transforms
 - Navigate to Google Cloud console.
 - Enable APIs for Cloud Storage, BigQuery, Cloud Run Functions in your project.
 - Navigate to IAM -> Service Accounts & download service account json key for authentication.
-- Navigate to Compute Engine -> VM Instances -> Create Instance -> SSH -> Clone this repository
+- Navigate to Compute Engine -> VM Instances -> Create Instance -> SSH -> Clone both repos
 - Upload your service account json key into the cloned repository.
 - Navigate to `app.py` -> TO-DO -> replace `service_account_key` & `bucket-name` with yours
 - Build the Docker image: `sudo docker build -t ET-feature-gcs .`
