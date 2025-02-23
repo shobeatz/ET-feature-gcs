@@ -1,9 +1,7 @@
-pandas==2.2.2
-numpy==1.26.4
-word2number==1.1
-python-dateutil>=2.8.0
-nltk==3.9.1
-scikit-learn==1.5.0
-google-cloud-storage==2.14.0
-fsspec==2024.6.0
-gcsfs==2024.6.0
+functions-framework==3.*
+google-cloud-storage
+google-cloud-bigquery
+pandas
+fsspec
+gcsfs
+pyarrow
