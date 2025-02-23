@@ -1,7 +1,12 @@
 # Trustana - Data Engineer Case Study
 
 ## Description
-Created an ETL pipeline which reads json data, cleans, standardizes & transforms it before engineering feature that can be used by a machine learning model to predict the confidence levels of Attributes. Also contains the Cloud Function code that will be used to automate the feature loading process into the OLAP store for efficient retrieval for model training & inference.
+An ETL pipeline which reads json data, cleans, standardizes & transforms it before engineering features that can be used by machine learning models to predict the confidence levels of Attributes. Also contains the Cloud Function code that will be used to automate the loading process into an OLAP store to efficiently retrieve features for model training & inference.
+
+## Approach
+- Performed cleaning & standardization post extraction across the dataset to maintain data integrity.
+- Used natural language text processing techniques before vectorization & encoding to create features.
+- Created an event-triggered pipeline to load features to a Data Lake which triggers the build & updation of the feature store on a Data Warehouse, while maintaining point-in-time feature retrieval to ensure consistency across training & serving.
 
 ## Flow
 - `ET-features-gcs` contains code to load data into your Google Cloud Storage bucket (needs to be created by you in your GCP project).
@@ -33,6 +38,3 @@ Created an ETL pipeline which reads json data, cleans, standardizes & transforms
 - Python 3.10
 - Libraries: See `requirements.txt`
 - Google Cloud account
-
-
-
